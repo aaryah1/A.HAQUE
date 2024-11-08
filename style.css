@@ -21,10 +21,16 @@ h1{
     color: #000080;
     font-family:Georgia;
   }
-  h4{
+h2{
+    font-family: EB Garmound;
+}
+h3{
+    font-family: EB Garmound;
+} 
+h4{
     font-family:Calibri;
-  }
-  hr {
+  } 
+hr {
     border: 5px solid navy;
     border-radius: 5px;
   }    
